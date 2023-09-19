@@ -1,7 +1,7 @@
 <?php
-$nim = 'c030322117';
-$nama = 'Muhammad Farid Rizki';
-$alamat = 'Jl. Kelayan Besar ll';
+$nim = '1710110989';
+$nama = 'Maria Mercedes;
+$alamat = 'Jl. Gajah Mada No.4';
 $nilai = 80;
 
 echo "NIM : ", $nim, "<br>";
